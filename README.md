@@ -1,2 +1,2 @@
 # Practicas
-Prácticas de uso
+* 30 minutos *
